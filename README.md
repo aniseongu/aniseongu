@@ -1,6 +1,4 @@
-## 안성우
-
-성균관대학교 소프트웨어학과에 다니고 있습니다. 자율주행과 로봇처럼 실제 장비와 맞닿은 소프트웨어에 관심이 있습니다. 지금은 순찰 로봇이 소리와 영상으로 침입을 찾는 산학협력 프로젝트를 하고 있습니다.
+## About Me
 
 ### Education
 
@@ -10,7 +8,7 @@
 ### Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,js,nodejs,express,fastapi,postgres,docker,aws,ros,opencv,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,js,nodejs,express,fastapi,postgres,docker,aws,ros,opencv,linux,git" alt="C, C++, Python, Kotlin, JavaScript, Node.js, Express, FastAPI, PostgreSQL, Docker, AWS, ROS, OpenCV, Linux, Git" />
 </p>
 
 ### Projects
