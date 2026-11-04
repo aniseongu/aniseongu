@@ -4,7 +4,7 @@
 
 - **이름**: 안성우 (Seongu An)
 - **이메일**: [asw3521@g.skku.edu](mailto:asw3521@g.skku.edu)
-- **LinkedIn**: <a href="https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%95%88-8056733ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn 프로필" height="18" align="absmiddle" /></a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/seongu-an-8056733ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn 프로필" height="18" align="absmiddle" /></a>
 
 ### Education
 
