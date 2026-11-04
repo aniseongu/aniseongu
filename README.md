@@ -13,7 +13,7 @@
 ### Experience
 
 - (2026.04 - 2026.12) (주)스페이스뱅크 산학협력 프로젝트 RoboViewX: AI 모델, 백엔드와 관제 웹 설계·구현
-- (2026.04 - 현재) GitByte 알고리즘 스터디: 매주 C++ 풀이 발표와 비교
+- (2026.04 - 현재) GitByte 알고리즘 스터디: 매주 C++ 풀이 발표와 비교 · [스터디 기록](https://docs.google.com/document/d/1dGMls-M6DGa5-z1quWHFi9asdIWO8GksuTnR-v3uydg/edit)
 - (2024.04 - 2026.01) 대한민국 공군 병장 전역
 - (2023.03 - 2024.01) SCAR 자율주행 동아리 부원
 
