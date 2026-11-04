@@ -1,6 +1,11 @@
 학교생활과 일상에서 겪는 불편을 직접 쓰는 도구로 해결하고 있습니다. 웹과 앱, 브라우저 확장부터 로봇 데이터 도구까지 만들고 개선합니다.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%95%88-8056733ab/)
+### 👤 Profile
+
+- **Name**: 안성우 (An Seongu)
+- **Email**: [asw3521@g.skku.edu](mailto:asw3521@g.skku.edu)
+- **GitHub**: [github.com/aniseongu](https://github.com/aniseongu)
+- **LinkedIn**: [linkedin.com/in/성우-안-8056733ab](https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%95%88-8056733ab/)
 
 ### Education
 
