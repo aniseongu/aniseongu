@@ -20,7 +20,7 @@
 ### Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,js,ts,react,nodejs,nestjs,express,fastapi,postgres,supabase,docker,aws,cloudflare,ros,opencv,linux,git" alt="C, C++, Python, Kotlin, JavaScript, TypeScript, React, Node.js, NestJS, Express, FastAPI, PostgreSQL, Supabase, Docker, AWS, Cloudflare, ROS, OpenCV, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,kotlin,ts,react,nestjs,fastapi,postgres,supabase,docker,aws,git" alt="C++, Python, Kotlin, TypeScript, React, NestJS, FastAPI, PostgreSQL, Supabase, Docker, AWS, Git" />
 </p>
 
 ### Projects
