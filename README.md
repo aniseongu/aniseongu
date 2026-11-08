@@ -27,13 +27,13 @@
 
 | 프로젝트 | 소개와 한 일 | 기술 |
 | --- | --- | --- |
+| **RoboViewX** | Unitree Go2 사족보행 로봇을 활용한 음향·영상 침입 탐지 프로젝트입니다. (주)스페이스뱅크 산학협력 5인 팀에서 AI 모델, 백엔드, 관제 웹을 같이 설계하고 구현했습니다. 학습용 음원을 모으고 1·2차 검수해 AI팀에 넘기는 라벨링 웹을 만들었습니다. 현장 음향·영상 연동 평가에서 팀은 침입 21건을 모두 탐지했습니다. 소스코드 비공개. | FastAPI, PostgreSQL, MinIO, Docker |
 | **[성공 플랫폼](https://github.com/aniseongu/skku-notice-platform)** | 개인용 성공을 로그인한 여러 사용자가 각자 쓰도록 옮기는 다중 사용자 [웹 앱](https://skku-notice-platform.pages.dev/)입니다(시험 중). 구독·키워드·저장·읽음을 계정별로 저장하고 행 수준 보안(RLS)으로 사용자 간 접근을 막습니다. 웹 푸시로 알리고, 사용자가 직접 넣은 Gemini 키로 공지가 나에게 맞는지 판정합니다. 수집과 이미지 속 글자 인식(OCR)은 Oracle Cloud 무료 서버의 타이머로 돌립니다. | React, NestJS, Supabase, Python, Cloudflare Pages |
 | **[성공](https://github.com/aniseongu/skku-notice-alert)** | 성균관대 공지와 인턴 공고를 모아 보는 [웹 앱](https://aniseongu.github.io/skku-notice-alert/)입니다. 흩어진 공지와 마감을 모으고, 관심 기준에 맞는 글을 휴대폰과 PC에 알려 줍니다. GitHub Actions로 수집하고 Gemini로 인턴 공고를 선별합니다. | Python, TypeScript, Lit, GitHub Actions |
-| **RoboViewX** | Unitree Go2 사족보행 로봇을 활용한 음향·영상 침입 탐지 프로젝트입니다. (주)스페이스뱅크 산학협력 5인 팀에서 AI 모델, 백엔드, 관제 웹을 같이 설계하고 구현했습니다. 학습용 음원을 모으고 1·2차 검수해 AI팀에 넘기는 라벨링 웹을 만들었습니다. 현장 음향·영상 연동 평가에서 팀은 침입 21건을 모두 탐지했습니다. 소스코드 비공개. | FastAPI, PostgreSQL, MinIO, Docker |
 | **[CarCheck Lab](https://github.com/aniseongu/carcheck-lab)** | 중고차 구매 전 위험을 점검하는 Android 앱입니다. 리콜·결함 신고·안전 등급과 구매 성향을 한 보고서로 묶었습니다. 공공 API가 빈 값을 주면 0점으로 치지 않고 기준값으로 채운 뒤 화면에 밝힙니다. | Kotlin, AWS Lambda, DynamoDB |
 | **[iCampus Plus](https://github.com/aniseongu/icampus-plus)** | 아캠체크를 바탕으로 아이캠퍼스 즐겨찾기 과목의 강의와 과제를 모아 보고, 마감 알림과 다크 모드를 제공하도록 개선한 브라우저 확장입니다. | JavaScript |
-| **[직원관리 웹](https://github.com/aniseongu/employee-management-assignment)** | ERD를 바탕으로 직원 등록·수정과 재직 상태 변경 이력을 관리합니다. 허용되지 않는 상태 변경은 서버에서 막습니다. | Express, PostgreSQL |
 | **[Xycar ROS Line Tracer](https://github.com/aniseongu/Xycar-ROS-Line-Tracer)** | SCAR 자율주행 동아리에서 자이카 실차의 카메라로 검은 선을 따라가는 PID 주행을 했습니다. 2026년에 C++14로 다시 작성했습니다. | ROS Noetic, OpenCV, C++ |
+| **[직원관리 웹](https://github.com/aniseongu/employee-management-assignment)** | ERD를 바탕으로 직원 등록·수정과 재직 상태 변경 이력을 관리합니다. 허용되지 않는 상태 변경은 서버에서 막습니다. | Express, PostgreSQL |
 
 <details>
 <summary>그 밖의 저장소</summary>
